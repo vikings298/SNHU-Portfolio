@@ -3,3 +3,4 @@
 [ReadMe - CS-250.docx](https://github.com/user-attachments/files/24250997/ReadMe.-.CS-250.docx)
 [ReadMe CS230.docx](https://github.com/user-attachments/files/24282929/ReadMe.CS230.docx)
 [CS305 Portfolio Journal.docx](https://github.com/user-attachments/files/25589711/CS305.Portfolio.Journal.docx)
+[CS320 McNaney Portfolio Journal.docx](https://github.com/user-attachments/files/25589798/CS320.McNaney.Portfolio.Journal.docx)
